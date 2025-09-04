@@ -44,14 +44,18 @@ As variáveis são características que variam entre os sujeitos. Podemos classi
 
 ### 2. Resumos Gráficos de Dados
 Gráficos são uma maneira poderosa de visualizar e entender a distribuição de uma variável.
-  * Para Variáveis Categóricas:
+  * **Para Variáveis Categóricas**:
     * Gráfico de Barras (Bar Graph): Usa barras para exibir as proporções ou frequências de cada categoria [38, 39]. Pode ser usado para comparar duas variáveis categóricas (gráficos de barras lado a lado ou empilhados) [39, 40].
     * Gráfico de Pizza (Pie Chart): Mostra as categorias como fatias de um círculo, representando suas proporções em relação ao todo [38].
     * Gráfico de Pareto (Pareto Chart): É um gráfico de barras que ordena as categorias por frequência, da maior para a menor [41].
-* Para Variáveis Quantitativas:
+* **Para Variáveis Quantitativas**:
     * Gráfico de Pontos (Dot Plot): Exibe cada observação individual como um ponto acima de uma linha numérica [36, 42]. Útil para conjuntos de dados pequenos, pois permite reconstruir os dados originais [43].
     * Gráfico de Caule e Folhas (Stem-and-Leaf Plot): Semelhante ao gráfico de pontos, separa cada valor em "caule" (dígitos iniciais) e "folha" (último dígito) [44, 45]. Também permite ver as observações individuais [46].
-    * Histograma (Histogram): Usa barras para exibir as frequências das observações dentro de intervalos (ou "bins") de valores [46, 47]. * Diferença do Gráfico de Barras: Histogramas são para variáveis quantitativas, enquanto gráficos de barras são para variáveis categóricas [48]. * Intervalos: Para variáveis contínuas ou discretas com muitos valores, os dados são agrupados em intervalos de largura igual [48, 49]. Geralmente, 5 a 10 intervalos são adequados [50]. * Altura das Barras: Representa a frequência (ou frequência relativa/porcentagem) das observações em cada intervalo [48, 50]. * Convenção de Ponto Final à Esquerda: Se uma observação cair exatamente no limite entre dois intervalos, ela pertence ao intervalo onde é o ponto final esquerdo [51].
+    * Histograma (Histogram): Usa barras para exibir as frequências das observações dentro de intervalos (ou "bins") de valores [46, 47].
+      * Diferença do Gráfico de Barras: Histogramas são para variáveis quantitativas, enquanto gráficos de barras são para variáveis categóricas [48].
+      * Intervalos: Para variáveis contínuas ou discretas com muitos valores, os dados são agrupados em intervalos de largura igual [48, 49]. Geralmente, 5 a 10 intervalos são adequados [50].
+      * Altura das Barras: Representa a frequência (ou frequência relativa/porcentagem) das observações em cada intervalo [48, 50].
+      * Convenção de Ponto Final à Esquerda: Se uma observação cair exatamente no limite entre dois intervalos, ela pertence ao intervalo onde é o ponto final esquerdo [51].
 
 ### 3. Formas das Distribuições
 Ao analisar gráficos, observe a forma da distribuição:
