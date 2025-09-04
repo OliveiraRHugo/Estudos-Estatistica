@@ -40,10 +40,10 @@ Este capítulo aborda a importância do planejamento cuidadoso do estudo para co
 ### 2 Amostragem Aleatória
   * Uma amostra aleatória simples (AAS) garante que cada amostra possível de um dado tamanho tenha a mesma chance de ser selecionada .
   * Um quadro de amostragem é uma lista de todos os sujeitos na população .
-  * Vícios (bias) podem ocorrer na amostragem:
-      * Vício de amostragem (sampling bias) ocorre quando o método de amostragem favorece sistematicamente certos resultados (ex: amostras de conveniência, amostras voluntárias) .
-      * Vício de resposta (response bias) ocorre quando os sujeitos fornecem respostas imprecisas .
-      * Vício de não resposta (nonresponse bias) ocorre quando uma parte substancial dos sujeitos selecionados se recusa a participar .
+  * Viéss (bias) podem ocorrer na amostragem:
+      * Viés de amostragem (sampling bias) ocorre quando o método de amostragem favorece sistematicamente certos resultados (ex: amostras de conveniência, amostras voluntárias) .
+      * Viés de resposta (response bias) ocorre quando os sujeitos fornecem respostas imprecisas .
+      * Viés de não resposta (nonresponse bias) ocorre quando uma parte substancial dos sujeitos selecionados se recusa a participar .
   * Um tamanho de amostra grande não garante uma amostra não viciada se o método de amostragem for falho .
   * Os métodos comuns de coleta de dados incluem entrevistas pessoais, entrevistas por telefone e questionários .
 
@@ -74,7 +74,7 @@ Glossário dos Capítulo 3 e 4:
 * Estudo observacional: O pesquisador observa os resultados em uma variável de resposta para sujeitos em grupos definidos por uma variável explicativa sem impor tratamentos .
 * Estudo experimental (experimento): O pesquisador atribui sujeitos a certas condições experimentais (tratamentos) e então observa os resultados .
 * Amostra aleatória simples (AAS): Garante que cada amostra possível de um dado tamanho tenha a mesma chance de ser selecionada .
-* Vícios (bias): Podem ocorrer na amostragem, como vício de amostragem, vício de resposta ou vício de não resposta .
+* Viéss (bias): Podem ocorrer na amostragem, como Viés de amostragem, Viés de resposta ou Viés de não resposta .
 * Randomização: Crucial para equilibrar os grupos de comparação em relação a variáveis ocultas e para permitir inferências causais, especialmente em experimentos .
 * Cegamento (blinding): Ajuda a evitar vieses, onde os sujeitos (cego simples) ou ambos os sujeitos e os pesquisadores (duplo-cego) desconhecem o tratamento atribuído .
 * Efeito placebo: A resposta de um sujeito a um tratamento inativo .
